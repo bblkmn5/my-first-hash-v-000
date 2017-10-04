@@ -20,7 +20,8 @@ end
 def adding
   shipping_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
 
-  #your code here
+  shipping_mainfest["pearl necklace"]= 1
+  puts shipping_manifest
   #remember to return the shipping_manifest hash
 
 end
